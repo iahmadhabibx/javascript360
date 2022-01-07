@@ -6,3 +6,9 @@ Removing duplicates from an array without using loops.
 
 # Day - 3:
 Getting a specific value against the key from an object.
+
+# Day - 4:
+Parsing an array of object in a way that a value of object becomes the key and rest of values becomes array.
+
+# Day - 5:
+Recursive function to search deep in your array.
