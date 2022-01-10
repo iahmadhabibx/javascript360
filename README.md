@@ -12,3 +12,6 @@ Parsing an array of object in a way that a value of object becomes the key and r
 
 # Day - 5:
 Recursive function to search deep in your array.
+
+# Day - 6:
+Implementing two way data binding in vanilla javascript.
