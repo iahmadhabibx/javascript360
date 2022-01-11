@@ -15,3 +15,6 @@ Recursive function to search deep in your array.
 
 # Day - 6:
 Implementing two way data binding in vanilla javascript.
+
+# Day - 7:
+Check if array contains unique elements or not.
