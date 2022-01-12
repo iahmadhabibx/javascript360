@@ -18,3 +18,6 @@ Implementing two way data binding in vanilla javascript.
 
 # Day - 7:
 Check if array contains unique elements or not.
+
+# Day - 8:
+Dynamic method to create a new DOM node with classes and content.
