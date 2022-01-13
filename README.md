@@ -21,3 +21,6 @@ Check if array contains unique elements or not.
 
 # Day - 8:
 Dynamic method to create a new DOM node with classes and content.
+
+# Day - 9:
+Alternative way of using Math.floor().
