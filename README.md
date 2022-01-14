@@ -24,3 +24,6 @@ Dynamic method to create a new DOM node with classes and content.
 
 # Day - 9:
 Alternative way of using Math.floor().
+
+# Day - 10:
+Different way of consoling your text/information
