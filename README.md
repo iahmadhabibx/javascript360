@@ -27,3 +27,6 @@ Alternative way of using Math.floor().
 
 # Day - 10:
 Different way of consoling your text/information
+
+# Day - 11:
+Shorthand way of converting strings into numbers and numbers into strings
