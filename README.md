@@ -33,3 +33,6 @@ Shorthand way of converting strings into numbers and numbers into strings
 
 # Day - 12:
 Swap 2 variable's values without involving a third variable.
+
+# Day - 13:
+Trigger event listener once.
