@@ -36,3 +36,6 @@ Swap 2 variable's values without involving a third variable.
 
 # Day - 13:
 Trigger event listener once.
+
+# Day - 14:
+One liner to generate random string.
