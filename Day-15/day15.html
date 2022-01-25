@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 15</title>
+</head>
+<style>
+    section,
+    div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+</style>
+
+<body>
+    <section id="parent" style="width: 150px; height: 150px; background: red;">
+        <div id="child" style="width: 125px; height: 125px; background: blue;">
+            <div id="grandchild" style="width: 100px; height: 100px; background: yellow;"></div>
+        </div>
+    </section>
+</body>
+
+<script>
+    document.getElementById("parent").addEventListener("click", (e) => {
+        e.stopPropagation();
+        console.log("parent");
+    });
+
+    document.getElementById("child").addEventListener("click", (e) => {
+        e.stopPropagation();
+        console.log("child");
+    });
+
+    document.getElementById("grandchild").addEventListener("click", (e) => {
+        e.stopPropagation();
+        console.log("grandchild");
+    });
+</script>
+
+</html>
