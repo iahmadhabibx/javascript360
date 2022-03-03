@@ -41,3 +41,5 @@ Trigger event listener once.
 One liner to generate random string.
 # Day - 15:
 Stopping all events to fire when clicking a specific tirgger.
+# Day - 16:
+Format your JSON code.
