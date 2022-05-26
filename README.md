@@ -43,3 +43,5 @@ One liner to generate random string.
 Stopping all events to fire when clicking a specific tirgger.
 # Day - 16:
 Format your JSON code.
+# Day - 17:
+Repeat strings for x number of times withous using conventional loops.
