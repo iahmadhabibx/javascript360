@@ -45,3 +45,5 @@ Stopping all events to fire when clicking a specific tirgger.
 Format your JSON code.
 # Day - 17:
 Repeat strings for x number of times without using conventional loops.
+# Day - 18:
+Eliminate numbers from a string. A method to purify your string in case any number is added mistakenly.
