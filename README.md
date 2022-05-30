@@ -47,3 +47,5 @@ Format your JSON code.
 Repeat strings for x number of times without using conventional loops.
 # Day - 18:
 Eliminate numbers from a string. A method to purify your string in case any number is added mistakenly.
+# Day - 19:
+Find out maximum or a minimum number from an array without using any loop.
