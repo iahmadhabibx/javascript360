@@ -51,3 +51,5 @@ Eliminate numbers from a string. A method to purify your string in case any numb
 Find out maximum or a minimum number from an array without using any loop.
 # Day - 20:
 To check performance of your code you can use performance.now() but it can only run in browser. But to work with nodejs, you have to use const { performance } = require('perf_hooks') and then use the performance.now().
+# Day - 21:
+Destruct array values as object keys.
