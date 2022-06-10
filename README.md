@@ -55,3 +55,5 @@ To check performance of your code you can use performance.now() but it can only 
 Destruct array values as object keys.
 # Day - 22:
 Find any string that ends with a specific word.
+# Day - 23:
+Deep clone any object in javascript using a simple trick.
