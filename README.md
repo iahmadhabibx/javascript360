@@ -57,3 +57,5 @@ Destruct array values as object keys.
 Find any string that ends with a specific word.
 # Day - 23:
 Deep clone any object in javascript using a simple trick.
+# Day - 24:
+One liner to swap values of two variables.
