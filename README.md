@@ -63,3 +63,5 @@ One liner to swap values of two variables.
 Detect dark mode, and listen to the change in theme using javascript
 # Day - 26:
 Group console logs for better debeugging of the code.
+# Day - 27:
+Detect when the caps lock is turned on in your application using javascript.
