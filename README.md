@@ -65,3 +65,5 @@ Detect dark mode, and listen to the change in theme using javascript
 Group console logs for better debeugging of the code.
 # Day - 27:
 Detect when the caps lock is turned on in your application using javascript.
+# Day - 28:
+Generators were introduced to the JavaScript language. A generator is a process that can be paused and resumed and can yield multiple values.
