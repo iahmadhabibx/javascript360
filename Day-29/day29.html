@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Follow Mouse</title>
+</head>
+<style>
+    img {
+        height: 40px;
+        width: 50px;
+        position: absolute;
+        transition: all 0.1s linear;
+    }
+</style>
+
+<body>
+    <img id="ship" src="https://www.seekpng.com/png/full/11-112943_webpage-clip-art-spaceship-clipart.png" alt="">
+    <script>
+        let spaceShip = document.getElementById("ship");
+
+        document.addEventListener("mouseover", (e) => {
+            spaceShip.style.left = `${e.pageX - 25}px`;
+            spaceShip.style.top = `${e.pageY - 25}px`;
+        })
+    </script>
+</body>
+
+</html>

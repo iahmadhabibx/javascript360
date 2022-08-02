@@ -67,3 +67,5 @@ Group console logs for better debeugging of the code.
 Detect when the caps lock is turned on in your application using javascript.
 # Day - 28:
 Generators were introduced to the JavaScript language. A generator is a process that can be paused and resumed and can yield multiple values.
+# Day - 29:
+Make the image follow the cursor.
