@@ -70,4 +70,4 @@ Generators were introduced to the JavaScript language. A generator is a process 
 # Day - 29:
 Make the image follow the cursor.
 # Day - 30:
-Prevent users to pase anything on your web using simple pase event listener.
+Prevent users to paste anything on your web using simple paste event listener.
