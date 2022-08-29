@@ -71,3 +71,5 @@ Generators were introduced to the JavaScript language. A generator is a process 
 Make the image follow the cursor.
 # Day - 30:
 Prevent users to paste anything on your web using simple paste event listener.
+# Day - 31:
+Skip some elements while destructuring an array.
