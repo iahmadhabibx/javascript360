@@ -73,3 +73,5 @@ Make the image follow the cursor.
 Prevent users to paste anything on your web using simple paste event listener.
 # Day - 31:
 Skip some elements while destructuring an array.
+# Day - 32:
+Access current location using navigator's geolocation.getCurrentPosition.
