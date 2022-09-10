@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speak Javascript</title>
+</head>
+<style>
+    body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+
+    textarea {
+        width: 400px;
+        height: 200px;
+        resize: none;
+        padding: 10px;
+    }
+
+    .container {
+        width: 400px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 20px 0 0 0;
+    }
+
+    input {
+        width: 50px;
+    }
+
+    .play {
+        background: #ada2a2;
+    }
+
+    .stop {
+        background: rgb(194, 46, 46);
+    }
+
+    .play,
+    .stop {
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+</style>
+
+<body>
+    <textarea class="text"></textarea>
+    <div class="container">
+        <section class="speak-div">
+            <label for="speak">Speed: </label>
+            <input type="number" class="speed" min="1" max="10" step="0.5">
+        </section>
+        <button class="play">Play</button>
+        <button class="stop">Stop</button>
+    </div>
+
+    <script src="./app.js" defer></script>
+</body>
+
+</html>

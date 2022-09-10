@@ -75,3 +75,5 @@ Prevent users to paste anything on your web using simple paste event listener.
 Skip some elements while destructuring an array.
 # Day - 32:
 Access current location using navigator's geolocation.getCurrentPosition.
+# Day - 33:
+Let your javascript speak for you using native SpeechSynthesisUtterance.
