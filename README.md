@@ -77,3 +77,5 @@ Skip some elements while destructuring an array.
 Access current location using navigator's geolocation.getCurrentPosition.
 # Day - 33:
 Let your javascript speak for you using native SpeechSynthesisUtterance.
+# Day - 34:
+Shorthand property to check null or empty data and assign alternative data.
