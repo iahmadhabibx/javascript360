@@ -83,3 +83,5 @@ Shorthand property to check null or empty data and assign alternative data.
 Create a Private method in Javascript using #
 # Day - 36:
 A classing one liner replacement for if else if statement
+# Day - 37:
+Clipboard working using Javascript Clipboard API.
