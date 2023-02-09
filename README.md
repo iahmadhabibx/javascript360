@@ -85,3 +85,5 @@ Create a Private method in Javascript using #
 A classing one liner replacement for if else if statement
 # Day - 37:
 Clipboard working using Javascript Clipboard API.
+# Day - 38:
+For of loop is the best to deal with multiple promises/async data, or posting data while iterating the loop.
