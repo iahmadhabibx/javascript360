@@ -87,3 +87,5 @@ A classing one liner replacement for if else if statement
 Clipboard working using Javascript Clipboard API.
 # Day - 38:
 For of loop is the best to deal with multiple promises/async data, or posting data while iterating the loop.
+# Day - 39:
+Shorthand property to compare and sort strings.
