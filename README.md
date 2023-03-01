@@ -91,3 +91,5 @@ For of loop is the best to deal with multiple promises/async data, or posting da
 Shorthand property to compare and sort strings.
 # Day - 40:
 Returning a new array formed by applying the mixture of map() followed by a flat() of depth 1 (arr.map(...args).flat()), but slightly more efficient than calling those two methods separately.
+# Day - 41:
+Creating threads in NodeJS/Javascript to concurrently run computations in the background.
