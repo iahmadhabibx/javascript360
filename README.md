@@ -93,3 +93,5 @@ Shorthand property to compare and sort strings.
 Returning a new array formed by applying the mixture of map() followed by a flat() of depth 1 (arr.map(...args).flat()), but slightly more efficient than calling those two methods separately.
 # Day - 41:
 Creating threads in NodeJS/Javascript to concurrently run computations in the background.
+# Day - 42:
+Creating an alias for your deconstructed key.
