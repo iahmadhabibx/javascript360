@@ -95,3 +95,9 @@ Returning a new array formed by applying the mixture of map() followed by a flat
 Creating threads in NodeJS/Javascript to concurrently run computations in the background.
 # Day - 42:
 Creating an alias for your deconstructed key.
+
+# Day - 43:
+A custom sort by function which accepts a 2nd parameter which defines by what key you want to sort.
+
+# Day - 44:
+A simple implementation of a debounce function, which is used to throttle repeated function calls, ensuring that the function is only executed after a specified delay once the calls have stopped coming in.
