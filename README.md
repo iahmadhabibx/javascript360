@@ -103,3 +103,5 @@ A custom sort by function which accepts a 2nd parameter which defines by what ke
 A simple implementation of a debounce function, which is used to throttle repeated function calls, ensuring that the function is only executed after a specified delay once the calls have stopped coming in.
 # Day - 45:
 In this snippet, the curry function takes another function fn as an argument and returns a new curried function. The curried function is capable of handling partial application by accepting arguments one by one and returning new functions until all required arguments are provided.
+# Day - 46:
+implementation of a "debounce" function using the latest ECMAScript features, including Promise and async/await. The debounce function ensures that the given function is only executed once after a specified delay, even if it's called multiple times within that delay.
