@@ -109,3 +109,5 @@ implementation of a "debounce" function using the latest ECMAScript features, in
 Using memoization, the fibonacci function's costly recursive calls are optimized, and subsequent calls with the same arguments are retrieved from the cache, avoiding redundant computations.
 # Day - 48:
 Custom event listener in javascript. You can use it to manage communication between different parts of your application without tightly coupling them. It's a versatile tool to implement pub/sub patterns, callbacks, and more in a clean and organized manner
+# Day - 49:
+Using array reducer to find the most occurring number in an array
